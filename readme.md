@@ -9,7 +9,7 @@ Fadıl Şahin
 <br>
 
 * Project Date: <br/>
-June 2019
+June 2020
 <br>
 
 * Project State And Duration: <br/>
